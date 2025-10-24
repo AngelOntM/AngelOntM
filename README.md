@@ -63,7 +63,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  //<img src="https://github-readme-stats.vercel.app/api?username=AngelOntM&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOntM&layout=compact&theme=tokyonight" alt="Top Languages" width="49%">
 </p>
 
